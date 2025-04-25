@@ -4,7 +4,8 @@ Nama: Muhammad Nazlul Ramadhyan
 
 NPM: 2308107010036
 
-Proyek ini merupakan implementasi berbagai algoritma sorting untuk mengukur performa (waktu dan penggunaan memori) dalam mengurutkan data angka dan kata yang sudah di generate ke dalam file txt. 
+Proyek ini merupakan implementasi berbagai algoritma sorting yaitu Bubble, 
+Selection, Insertion, Merge, Quick, dan Shell untuk mengukur performa (waktu dan penggunaan memori) dalam mengurutkan data angka dan kata yang sudah di generate ke dalam file txt. 
 Program akan menampilkan waktu eksekusi masing-masing algoritma dalam bentuk tabel untuk berbagai ukuran data, dari 10.000 hingga 2.000.000 elemen.
 
 Langkah-langkah menjalankan kode program:
