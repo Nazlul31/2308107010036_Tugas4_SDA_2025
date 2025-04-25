@@ -10,5 +10,5 @@ Program akan menampilkan waktu eksekusi masing-masing algoritma dalam bentuk tab
 Langkah-langkah menjalankan kode program:
 1. Buka terminal / Command Prompt
 2. Masuk ke folder utama project
-3. Compile program menggunakan GCC: gcc -o code/main code/main.c
-4. Jalankan program yang telah dikompilasi: ./code/main
+3. Compile program menggunakan GCC
+4. Jalankan program yang telah dikompilasi
