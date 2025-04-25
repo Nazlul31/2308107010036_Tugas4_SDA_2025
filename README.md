@@ -1,6 +1,7 @@
 # 2308107010036_Tugas4_SDA_2025
 
 Nama: Muhammad Nazlul Ramadhyan
+
 NPM: 2308107010036
 
 Proyek ini merupakan implementasi berbagai algoritma sorting untuk mengukur performa (waktu dan penggunaan memori) dalam mengurutkan data angka dan kata yang sudah di generate ke dalam file txt. 
