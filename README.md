@@ -9,7 +9,7 @@ Selection, Insertion, Merge, Quick, dan Shell untuk mengukur performa (waktu dan
 Program akan menampilkan waktu eksekusi masing-masing algoritma dalam bentuk tabel untuk berbagai ukuran data, dari 10.000 hingga 2.000.000 elemen.
 
 Langkah-langkah menjalankan kode program:
-1. Buka terminal / Command Prompt
+1. Buka terminal
 2. Masuk ke folder utama project
 3. Generate data angka dan kata yang akan digunakan ke dalam folder data
 4. Compile program main menggunakan GCC
